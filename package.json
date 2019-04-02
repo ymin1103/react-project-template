@@ -1,5 +1,5 @@
 {
-  "name": "react-project",
+  "name": "react-project-template",
   "version": "1.0.0",
   "description": "Simple project template using React, Bootsrap, Webpack",
   "main": "index.js",
@@ -8,6 +8,7 @@
     "build":"webpack --mode production",
     "dev":"webpack --mode development"
   },
+  "repository":"https://github.com/ymin1103/react-project-template",
   "author": "ymin1103@gmail.com",
   "license": "ISC",
   "dependencies": {
